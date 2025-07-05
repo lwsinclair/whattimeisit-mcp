@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-whattimeisit-mcp-badge.png)](https://mseep.ai/app/kukapay-whattimeisit-mcp)
+
 # WhatTimeIsIt MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@kukapay/whattimeisit-mcp)](https://smithery.ai/server/@kukapay/whattimeisit-mcp)
